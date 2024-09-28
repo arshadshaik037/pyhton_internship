@@ -1,2 +1,3 @@
 # pyhton_internship
-python internship practice codes
+everything about my python internship
+
